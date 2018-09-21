@@ -1,2 +1,3 @@
-# ADABlocalization
-Help localizing ADAB! ADAB is still in development and not ready to be released. Expect changes soon!
+# ADAB Localization Project
+
+We're fixing up some stuff. Expect new things when ADAB is ready for a release!
